@@ -47,6 +47,7 @@ h1 {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
+    color: black;
 }
 
 #menu > li {
